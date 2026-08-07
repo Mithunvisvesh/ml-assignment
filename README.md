@@ -6,6 +6,7 @@ This repository contains my weekly machine learning lab assignments for the 5th 
 
 Each week's lab files are organized into their respective folders:
 
+*   **[Lab 1](./Lab%201/)**: Exercises and solutions for Lab Session 1, including code (Jupyter Notebook) and lab description.
 *   **[Lab 2](./Lab%202/)**: Exercises and solutions for Lab Session 2, including code, datasets, and generated plots.
 *   **[Lab 3](./Lab%203/)**: Exercises and solutions for Lab Session 3, including K-Means clustering files and datasets.
 *   **[Lab 4](./Lab%204/)**: Exercises and solutions for Lab Session 4, including K-Means performance comparisons, clustering, and scalability analysis.
