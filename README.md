@@ -23,5 +23,5 @@ To run any script:
 2. Install any required packages (e.g., `numpy`, `pandas`, `matplotlib`, `scikit-learn`).
 3. Run the Python script:
     ```bash
-    python bl_sc_<filename>.py
+    python <filename>.py
     ```
